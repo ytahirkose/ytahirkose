@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a frontend developer.
+Welcome to my GitHub profile! I'm a frontend developer, Ant Design contributor.
 
 ## 🛠️ Skills
 
