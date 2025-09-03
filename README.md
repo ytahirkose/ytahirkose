@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm a fullstack developer, Ant Design contributor.
+Welcome to my GitHub profile! I'm a frontend developer, Ant Design contributor.
 
 ## 🛠️ Skills
 
-- Java, JavaScript, Typescript
-- Springboot, React JS, Angular, Vue
+- JavaScript, Typescript
+- React JS, React Native, Angular, Vue
 
 ## 📫 Contact Me
 
