@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a frontend developer, Ant Design contributor.
 ## 🛠️ Skills
 
 - JavaScript, Typescript
-- React JS, React Native, Angular, Vue
+- React Native, React JS, Angular, Vue
 
 ## 📫 Contact Me
 
